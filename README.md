@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @RahilGiri
-- 👀 I’m interested in coding and problem solving
-- 🌱 I’m currently learning Java,C++,C,HTML,CSS
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me insta id - @rahilgiri__
+Giri Rahil Jagdish
+	•	Computer Science Engineer | Web Development | Machine Learning
+	•	📧 Contact: rahilgiri1316@gmail.com | 📞 8780378874 | 📍 Vadodara, Gujarat
+	•	🎓 B.Tech in Computer Science (AI) at Parul University (7.81 CGPA)
+	•	💻 Projects: GNSS-Based Map-Matching(FN), Emotion-Based Music System(FN), Event Management Platform(FN)
+	•	🛠️ Skills: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, TensorFlow, Python
 
-<!---
-RahilGiri/RahilGiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
