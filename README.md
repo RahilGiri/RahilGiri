@@ -1,6 +1,6 @@
-<!-- ✨ Typing SVG Banner -->
+<!-- ✨ Animated Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rahil+Giri!;B.Tech+CSE+Student+%7C+MERN+Stack+Developer;Passionate+about+real-world+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Rahil+Giri!;Full+Stack+Developer+%7C+MERN+Stack+Enthusiast;Bringing+ideas+to+life+with+clean+code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Welcome to My GitHub Profile 💻</h1>
@@ -63,14 +63,13 @@
 ## 🌐 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rahil-giri)  
-- 📧 Email: rahilgiri1316@gmail.com *(update this)*  
-- 🌱 Portfolio: Coming soon...
+- 📧 Email: rahilgiri1316@gmail.com *(replace with actual email)*  
 
 ---
 
-## 🔥 Fun Fact
+## 🌟 Quote I Follow
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “Great software is not built by chance, it's built by choice and discipline.” — Unknown
 
 ---
 
