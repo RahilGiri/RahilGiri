@@ -40,7 +40,7 @@ A web app that allows users to browse, register for, and manage events — compl
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rahil-giri)  
-- 📧 Email: rahilgiri@example.com *(replace with your real email)*  
+- 📧 Email: rahilgiri1316@gmail.com *(replace with your real email)*  
 - 🌐 Portfolio: Coming Soon
 
 ---
