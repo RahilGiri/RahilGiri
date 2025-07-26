@@ -63,7 +63,7 @@
 ## 🌐 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rahil-giri)  
-- 📧 Email: rahilgiri1316@gmail.com *(replace with actual email)*  
+- 📧 Email: rahilgiri1316@gmail.com  
 
 ---
 
